@@ -37,5 +37,5 @@ I'm a passionate developer proficient in a diverse set of programming languages 
   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 
-# Github Stats
+## Github Stats
 ![Wisam's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisamidris77&show_icons=true&bg_color=0d1117&title_color=03D8F3&text_color=FFFFFF&icon_color=03D8F3)​​​     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wisamidris77&layout=compact&bg_color=0d1117&title_color=03D8F3&text_color=FFFFFF)
