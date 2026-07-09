@@ -1,25 +1,50 @@
-# Hi there ![Wave](https://img.shields.io/badge/👋-wave-blue) [![YouTube Channel](https://img.shields.io/badge/YouTube%20Channel-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@wisamidris)
+# Hi there 👋
 
+I'm **Wisam Idris**, a software and game developer who enjoys building modern applications, APIs, and games.
 
-I'm a passionate developer proficient in a diverse set of programming languages and technologies:
+- 💻 Full-Stack Developer
+- 🎮 Unity Developer
+- ☁️ Cloud & DevOps Enthusiast
+- 🌱 Always learning and building new things
 
-</div>
-<div >
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,python,js,ts,go,rust,kotlin,html,css,bootstrap,flask,react,vue,svelte,unity,unreal,godot,docker,kubernetes,ubuntu,aws,azure,githubactions&perline=7" alt="My Skills"/> 
-        </p>
-</div>
-<br>
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@wisamidris)
 
-<h2> 📉 GitHub Stats 🌟 </h2>
-<div> 
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
 <p>
-  <a href="https://github.com/wisamidris77"><img alt="wisamidris77's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=wisamidris77&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=03D8F3&icon_color=F8D867&line_height=28&rank_icon=github" height="192px"/></a>
-  <a href="https://github.com/wisamidris77"><img alt="wisamidris77's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wisamidris77&langs_count=20&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=03D8F3&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/wisamidris77"><img alt="wisamidris77's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wisamidris77&theme=dracula&bg_color=1F222E&title_color=03D8F3&point=F8D866&line=03D8F3&color=a6accd&hide_border=true&radius=4.5" /></a>
-<img alt="wisamidris77's Trophy Graph" src="https://trophygh.kolioaris.xyz/?username=wisamidris77&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" />
+  <img src="https://skillicons.dev/icons?i=cs,dart,ts,go,python&perline=5" />
 </p>
-</div>
-<br>
 
+### Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap&perline=5" />
+</p>
+
+### Game Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,blender&perline=3" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,githubactions,linux,ubuntu&perline=5" />
+</p>
+
+---
+
+<div align="center">
+<p align="center">
+  <img src="https://trophygh.kolioaris.xyz/?username=wisamidris77&theme=radical&row=1&column=6&margin-w=10" />
+</p>
+<sub>
+Made with ❤️, ☕ and lots of debugging.
+</sub>
+
+</div>
